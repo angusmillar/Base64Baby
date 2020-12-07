@@ -11,8 +11,6 @@ namespace Base64Baby
   {
     static void Main(string[] args)
     {
-
-      //string output = Convert.ToBase64String(Encoding.ASCII.GetBytes("secret"));
       Runner();
     }
 
