@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64Baby", "Base64Baby\Base64Baby.csproj", "{F5394CA9-771E-4FD1-B155-4685620F0663}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64Baby", "Base64Baby\Base64Baby.csproj", "{93D6E964-EC3C-41BE-B816-02B29C1E0F73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F5394CA9-771E-4FD1-B155-4685620F0663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5394CA9-771E-4FD1-B155-4685620F0663}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5394CA9-771E-4FD1-B155-4685620F0663}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5394CA9-771E-4FD1-B155-4685620F0663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D6E964-EC3C-41BE-B816-02B29C1E0F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D6E964-EC3C-41BE-B816-02B29C1E0F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D6E964-EC3C-41BE-B816-02B29C1E0F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D6E964-EC3C-41BE-B816-02B29C1E0F73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
